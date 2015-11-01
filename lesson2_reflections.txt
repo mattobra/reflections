@@ -1,4 +1,8 @@
-Question: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-
-Answer: - look at previous ways of programming to learn from mistakes
+Question: What happens when you initialize a repository? Why do you need to do it?
 		
+Answer:  A .git file is created. It is needed to use the git commands and github.
+
+Question: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Answer: Staging area - temporary folder to add files that you will eventually want to commit into the working directory
+		working directory - final place to add files that you want to commit 
