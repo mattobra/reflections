@@ -1,0 +1,34 @@
+Question: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Answer: - it showed a minus sign for lines that were removed
+		- it showed a plus sign for lines that were added
+		- comparing the (-) and (+) helped me focus on what has changed in the code
+
+Question: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Answer: - look at previous ways of programming to learn from mistakes
+
+Question: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Answer: Pro
+		- saving code that works
+		- Add description of change of the committed file
+
+		Con
+		- Remember to save 
+		- Remembering when to save	
+
+Question: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Answer: Git is used for programming. A user is more likely to be working in multiple files when programming. For example a user can me working on the .html, .css and .js files at the same time. While in version control systems like Google docs is mainly used for documents. People dont usually work on multiple documents at the same time.
+
+Question: How can you use the commands git log and git diff to view the history of files?
+
+Answer: The git log command allows you to view the different committed changes that have been made with a brief description that you have added. The git diff command allows you to compare two files that were committed to see what specifically was added and/or deleted.
+
+Question: How might using version control make you more confident to make changes that could break something?
+
+Answer: Easier to track down where you have made a mistake as long as you commit properly.
+
+Question: Now that you have your workspace set up, what do you want to try using Git for?
+
+Answer: Manage my projects. For example, manage my personal website and share it with people.
